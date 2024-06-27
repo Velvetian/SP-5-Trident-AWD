@@ -7,8 +7,9 @@
 </p>
 
 ## AWD mod for Twotrees SP-5(Sapphire Plus) Trident mod
-  Based on pure100kim's Sapphire_Plus_Trident mod <br>
-  https://github.com/pure100kim/Sapphire_Plus_Trident.git<br><br>
+  Based on pure100kim's Sapphire_Plus_Trident mod and aTinyShellScript's v2.4_AWD mod <br>
+  https://github.com/pure100kim/Sapphire_Plus_Trident.git<br>
+  https://github.com/aTinyShellScript/v2.4_AWD.git<br><br>
   Motor mounts and tensioner idlers are changed from above mod. <br><br>
   Currently on beta state <br><br>
   1K speed with 55k accel tested <br>
