@@ -1,4 +1,4 @@
-# SP-5-Trident-AWD
+# SP-5 Trident AWD
 
 <p align="center">
   <img src="assembly overview.png">
