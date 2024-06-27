@@ -11,7 +11,7 @@
   https://github.com/pure100kim/Sapphire_Plus_Trident.git<br>
   https://github.com/aTinyShellScript/v2.4_AWD.git<br><br>
   Currently on beta state <br><br>
-  1K speed with 55k accel tested <br>
+  1K speed with 55K accel tested <br>
   <br>
   <img src="3.JPEG">
   
